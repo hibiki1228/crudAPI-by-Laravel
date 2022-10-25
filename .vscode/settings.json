@@ -1,0 +1,9 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "makefile.configurations": [
+    {
+      "name": "laravel-template-prj",
+      "makeDirectory": "./Makefile"
+    }
+  ]
+}
