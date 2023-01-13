@@ -17,7 +17,7 @@ up:
 down:
 	docker-compose down
 fresh:
-	docker-compose exec app php artisan migrate:fresh --seed
+	docker-compose exec app php artisan migrate
 app:
 	docker-compose exec app bash
 sql:
